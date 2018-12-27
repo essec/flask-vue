@@ -5,3 +5,4 @@ __pycache__
 venv
 semantic
 semantic.json
+.vscode

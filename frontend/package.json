@@ -12,7 +12,11 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "jquery": "^3.3.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-vue": "git+https://github.com/Semantic-UI-Vue/Semantic-UI-Vue.git",
     "vue": "^2.5.2",
+    "vue-jquery": "^1.0.6",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
@@ -38,6 +42,7 @@
     "eslint-plugin-promise": "^3.4.0",
     "eslint-plugin-standard": "^3.0.1",
     "eslint-plugin-vue": "^4.0.0",
+    "expose-loader": "^0.7.5",
     "extract-text-webpack-plugin": "^3.0.0",
     "file-loader": "^1.1.4",
     "friendly-errors-webpack-plugin": "^1.6.1",
